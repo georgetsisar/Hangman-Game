@@ -12,7 +12,7 @@ It's my most important vanila javascript project...
 
 ## Watch my project 💩
 
-[![portfolio](https://img.shields.io/badge/CLICK_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/CLICK_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://georgetsisar.github.io/Hangman-Game/)
 
 
 ## Feedback 🌴
